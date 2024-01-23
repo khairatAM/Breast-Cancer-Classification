@@ -7,6 +7,6 @@ Invasive ductal carcinoma (IDC) is the most common type of breast cancer. This p
 1. Preprocessing image datasets from local directory via os, imutils and Keras packages in Python.
 2. Image augmentation in Keras during training to improve model robustness.
 3. Balancing the training loss of an unbalanced dataset using class weighting in Keras.
-4. Familiar with CNNs but learned about Sperable Convolutions for faster and more efficient computation.
+4. Familiar with CNNs but learned about Seperable Convolutions for faster and more efficient computation.
 5. Improved proficiency with writing modules, classes, methods and file I/O in Python.
 6. Handled overfitting of model by increasing kernel size and number of filters, and decreasing the learning rate.
